@@ -53,11 +53,11 @@ public class Smartphone {
         this.battery = newBattery;
     }
 
-    public void upgradeCompnent(Display newDisplay){
+    public void upgradeComponent(Display newDisplay){
         this.display = newDisplay;
     }
 
-    public void upgradeCompnent(Processor newProcessor){
+    public void upgradeComponent(Processor newProcessor){
         this.processor = newProcessor;
     }
 
